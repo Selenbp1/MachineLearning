@@ -1,4 +1,5 @@
 # 이름으로 성별 감지
+#http://127.0.0.1:8000/docs#/ 활용하여 이름으로 성별를 감지할 수 있음
 from unittest import result
 import uvicorn
 from fastapi import FastAPI, Query
